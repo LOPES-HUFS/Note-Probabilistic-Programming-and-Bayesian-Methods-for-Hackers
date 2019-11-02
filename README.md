@@ -7,4 +7,4 @@
 
 ## 목차
 
-- 1장: [서론](http://nbviewer.jupyter.org/urls/raw.github.com/LOPES-HUFS/Note-Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter_1_Introduction_to_Bayesian_Methods.ipynb)
+- 1장: [서론](https://nbviewer.jupyter.org/github/LOPES-HUFS/Note-Probabilistic-Programming-and-Bayesian-Methods-for-Hackers/blob/master/Chapter_1_Introduction_to_Bayesian_Methods.ipynb)
