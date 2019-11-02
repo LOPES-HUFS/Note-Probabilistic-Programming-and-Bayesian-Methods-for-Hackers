@@ -1,5 +1,6 @@
-# Note-Probabilistic-Programming-and-Bayesian-Methods-for-Hackers
-프로그래머를 위한 베이지안 정리 노트
+# 프로그래머를 위한 베이지안 with 파이썬 정리 노트
+
+아래 교재를 정리해서 올리는 공간입니다.
 
 ## 교재
 
